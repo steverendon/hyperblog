@@ -1,3 +1,5 @@
 Recuerda que al ejecutar este comando (y de aquí en adelante) vamos a tener una nueva carpeta oculta llamada .git con toda la base de datos con cambios atómicos en nuestro proyecto.
 
 otro cambio.
+
+En camara parece alto pero no es tan alto.
