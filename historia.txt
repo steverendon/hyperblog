@@ -3,3 +3,6 @@ Recuerda que al ejecutar este comando (y de aquí en adelante) vamos a tener una
 otro cambio.
 
 En camara parece alto pero no es tan alto.
+
+
+este cambio lo quiero eliminar a continuacion.
