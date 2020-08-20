@@ -1,9 +1,15 @@
 h1{
 	color: blue;
 	text-align: center;
+	font-size: 40px;
 }
 
 p{
 	margin: 5px;
 	text-align: center;
+}
+
+.go{
+	color: green;
+	font-size: 25px;
 }
